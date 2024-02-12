@@ -56,7 +56,7 @@
         <picture class="newsletter-logo">
             <source srcset="/illustration-sign-up-desktop.svg" media="(min-width: 768px)">
             <source srcset="/illustration-sign-up-mobile.svg" media="(max-width: 767px)">
-            <img src="/illustration-sign-up-desktop.svg" alt="newsletter logo" role="presentation">
+            <img src="/illustration-sign-up-desktop.svg" alt="newsletter logo">
         </picture>
     </div>
   {:else}
